@@ -7,7 +7,7 @@
 # apt-get install python3-smbus
 #
 # Author: giuaig
-# License: GPLv2
+# License: GPLv3
 # Version: 0.1
 # Datasheet: http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.PDF
 #
