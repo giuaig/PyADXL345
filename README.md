@@ -31,10 +31,10 @@ sudo python3 setup.py install
 * FIFO
 
 ## License
-See [LICENSE] (https://github.com/giuaig/PyADXL345/blob/master/LICENSE)
+See [LICENSE](https://github.com/giuaig/PyADXL345/blob/master/LICENSE)
 
 ## Changelog
-See [CHANGELOG] (https://github.com/giuaig/PyADXL345/blob/master/CHANGELOG)
+See [CHANGELOG](https://github.com/giuaig/PyADXL345/blob/master/CHANGELOG)
 
 ## Issues & Bugs
 Please report any issues or bugs here:
