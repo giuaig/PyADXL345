@@ -57,7 +57,7 @@ if __name__ == "__main__":
             axesMS = adxl345.readInMS(axesG, rounded=True)
             print("M/S^2: \tx=" , (axesMS['x']), "\ty=" , (axesMS['y']), "\tz=" , (axesMS['z']))
 
-            time.sleep(0.5)
+            time.sleep(INTERVAL)
 
     except KeyboardInterrupt:
         sys.exit()
